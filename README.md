@@ -64,12 +64,12 @@ https://drive.google.com/drive/u/1/folders/1f96pwhqpoD3DgM_A2ce4AMrxZUf0pTqD
 *Second sample*
 
 <br/>
-![image](https://user-images.githubusercontent.com/59110598/126704885-bdda57fb-629f-4dee-ba3b-5d3066e28050.png)
+![image1](https://user-images.githubusercontent.com/59110598/126704885-bdda57fb-629f-4dee-ba3b-5d3066e28050.png)
 
 <br/>
 *Third sample*
 <br/>
-![image](https://user-images.githubusercontent.com/59110598/126704909-58c827cd-e1e7-4881-81d8-5cdc8b727961.png)
+![image2](https://user-images.githubusercontent.com/59110598/126704909-58c827cd-e1e7-4881-81d8-5cdc8b727961.png)
 
 <br/>
 
