@@ -52,22 +52,22 @@ https://drive.google.com/drive/u/1/folders/1f96pwhqpoD3DgM_A2ce4AMrxZUf0pTqD
 <br/><br/>
 &nbsp;&nbsp;2.run frontend at local host 8081**
 <br/><br/><br/><br/>
-## Simple runs Screenshots**
+## Sample runs Screenshots**
 <br/><br/><br/>
-*First simple*
+*First sample*
 
 <br/>
 
 ![image](https://user-images.githubusercontent.com/59110598/126704695-b052c481-d7ab-4377-a5e1-0fea89f238e2.png)
 
 <br/>
-*Second simple*
+*Second sample*
 
 <br/>
 ![image](https://user-images.githubusercontent.com/59110598/126704885-bdda57fb-629f-4dee-ba3b-5d3066e28050.png)
 
 <br/>
-*Third simple*
+*Third sample*
 <br/>
 ![image](https://user-images.githubusercontent.com/59110598/126704909-58c827cd-e1e7-4881-81d8-5cdc8b727961.png)
 
