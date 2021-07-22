@@ -30,29 +30,29 @@ Mohamed Ibrahim El sayed
 
 
 
-**Design patterns**
+## Design patterns used
 
-1.Producer Consumer : the machine contains a producer part and a consumer part where the product is passed between them.
-<br/>
-2.Snapshot : we save a snapshot of the machines every sec and save this to an array List then if we need to replay, we rerun it again
-<br/>
-3.Observer : when a machine producer produces roducts, it notifies the machine consumer to consume it and vice versa
+&nbsp;&nbsp;1.Producer Consumer : the machine contains a producer part and a consumer part where the product is passed between them.
 <br/><br/>
-**UML diagram**
+&nbsp;&nbsp;2.Snapshot : we save a snapshot of the machines every sec and save this to an array List then if we need to replay, we rerun it again
+<br/><br/>
+&nbsp;&nbsp;3.Observer : when a machine producer produces roducts, it notifies the machine consumer to consume it and vice versa
+<br/><br/><br/><br/>
+## UML diagram
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/59110598/126704516-2ab87162-5cbe-4a93-a7e3-f58f373ae639.png)
 <br/><br/>
-**Videos link :**
+## Videos link :
 <br/><br/>
 https://drive.google.com/drive/u/1/folders/1f96pwhqpoD3DgM_A2ce4AMrxZUf0pTqD
 <br/><br/>
-**How to Run code**
+## How to Run code
 <br/><br/>
-&nbsp;**1.run backend at local host 8080**
-<br/>
-&nbsp;**2.run frontend at local host 8081**
+&nbsp;&nbsp;1.run backend at local host 8080
 <br/><br/>
-**Simple runs Screenshots**
+&nbsp;&nbsp;2.run frontend at local host 8081**
+<br/><br/><br/><br/>
+## Simple runs Screenshots**
 <br/><br/><br/>
 *First simple*
 
